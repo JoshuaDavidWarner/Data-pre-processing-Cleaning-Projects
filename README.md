@@ -1,10 +1,10 @@
-# 🤖 Data preprocessing Cleaning Projects🤖
+# 🤖 Data Preprocessing Cleaning Projects🤖
 
 ## These are some of the projects I completed in various places.
 
 ![Design Blocks](https://pmctvline2.files.wordpress.com/2016/07/star-trek-discovery-brent-spiner-data.jpg)
 
-## List of Courses
+## List of Projects
 
   - [A New Era of Data Analysis in Baseball](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball)
   - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
