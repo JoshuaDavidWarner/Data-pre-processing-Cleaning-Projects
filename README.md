@@ -6,6 +6,7 @@
 
 ## List of Projects
 
+  - [Generating Keywords for Google Ads](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/blob/master/Generating%20Keywords%20for%20Google%20Ads/notebook.ipynb)
   - [Risk and Returns: The Sharpe Ratio](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/blob/master/Risk%20and%20Returns:%20The%20Sharpe%20Ratio/notebook.ipynb)
   - [A New Era of Data Analysis in Baseball](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/blob/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball/notebook.ipynb)
   - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/WepsDrawn/Data-pre-processing-Cleaning-Projects/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
